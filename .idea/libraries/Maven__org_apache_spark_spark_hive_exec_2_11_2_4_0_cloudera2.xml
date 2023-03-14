@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.apache.spark:spark-hive-exec_2.11:2.4.0.cloudera2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../repo/org/apache/spark/spark-hive-exec_2.11/2.4.0.cloudera2/spark-hive-exec_2.11-2.4.0.cloudera2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../repo/org/apache/spark/spark-hive-exec_2.11/2.4.0.cloudera2/spark-hive-exec_2.11-2.4.0.cloudera2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../repo/org/apache/spark/spark-hive-exec_2.11/2.4.0.cloudera2/spark-hive-exec_2.11-2.4.0.cloudera2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
