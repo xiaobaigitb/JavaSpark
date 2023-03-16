@@ -57,7 +57,6 @@ public class Main {
 
         //设置Hadoop执行环境
         SetHadoopDev.init();
-
         SparkConf conf = new SparkConf();
         SparkSession hc = SparkSession.builder()
                 .config(conf)
