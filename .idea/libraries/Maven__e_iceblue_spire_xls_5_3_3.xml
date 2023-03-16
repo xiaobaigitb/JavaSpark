@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: e-iceblue:spire.xls:5.3.3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../repo/e-iceblue/spire.xls/5.3.3/spire.xls-5.3.3.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../repo/e-iceblue/spire.xls/5.3.3/spire.xls-5.3.3-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../repo/e-iceblue/spire.xls/5.3.3/spire.xls-5.3.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
